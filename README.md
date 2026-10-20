@@ -26,3 +26,7 @@ All planned missions use Escape Team's five-digit answer checkpoints while keepi
 - [Official Escape Team editor](https://www.escape-team.com/create)
 - [How to play](https://www.escape-team.com/how-to-play)
 - [Free DIY Escape Room Kit](https://www.escape-team.com/free-escape-room-diy-kit)
+
+## First playable pilot
+
+- [Room Zero: House That Wasn't There](prototype/house-01/README.md) — three-page physical overlay pilot, plus offline code checker. The generated PDF files and editable generator are currently attached to the corresponding ChatGPT project conversation; not yet stored in GitHub. This is a **one-checkpoint, unplaytested** mechanism prototype, not a completed mission.
