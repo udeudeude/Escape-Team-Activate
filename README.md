@@ -30,3 +30,7 @@ All planned missions use Escape Team's five-digit answer checkpoints while keepi
 ## First playable pilot
 
 - [Room Zero: House That Wasn't There](prototype/house-01/README.md) — three-page physical overlay pilot, plus offline code checker. The generated PDF files and editable generator are currently attached to the corresponding ChatGPT project conversation; not yet stored in GitHub. This is a **one-checkpoint, unplaytested** mechanism prototype, not a completed mission.
+
+## Second, inference-based pilot
+
+- [**No Such Room** (prototype 02)](prototype/house-02/README.md): two-page architectural mystery, no cutting or component assembly. The story requires a model-changing deduction and a constrained five-digit location trace. Source, PDFs, and sealed solution were delivered in the related project conversation; official app playtesting and blind testing are still pending.
